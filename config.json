@@ -1,0 +1,13 @@
+{
+  "soulcordId": "1425773195784486973",
+  "assistantId": "1444422634237595900",
+
+  "minDelay": 1500,
+  "maxDelay": 3500,
+
+  "retryCount": 2,
+  "retryDelay": 2000,
+
+  "whitelist": [],
+  "blacklist": []
+}
