@@ -1,1 +1,15 @@
-
+Soulcord-AC/
+├── src/
+│   ├── Core/
+│   │   ├── AutoCatcher.cs       # Main catching logic
+│   │   ├── ScreenCapture.cs     # Screen reading module
+│   │   └── InputSimulator.cs    # Input automation
+│   ├── UI/
+│   │   ├── MainWindow.xaml      # Main UI
+│   │   └── MainWindow.xaml.cs   # UI logic
+│   └── Models/
+│       └── SessionStats.cs      # Stats tracking model
+├── assets/
+│   └── screenshots/
+├── Soulcord-AC.csproj
+└── README.md
